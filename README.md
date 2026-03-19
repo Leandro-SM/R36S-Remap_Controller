@@ -16,7 +16,8 @@ Apesar da pasta autoconfigs e do retroarch/retroarchcustom.cfg em Retroarch, o a
 
     SHARE/system/configs/emulationstation/
 
-O arquivo que você deve editar é: 
+O arquivo que você deve editar é:  
+
     es_input.cfg
 
 Primeiro, copie o arquivo para outro lugar, ou crie uma cópia renomeie para es_input.cfg.bkp.
