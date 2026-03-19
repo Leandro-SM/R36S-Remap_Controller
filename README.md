@@ -20,9 +20,9 @@ O arquivo que você deve editar é:
 
     es_input.cfg
 
-Primeiro, copie o arquivo para outro lugar, ou crie uma cópia renomeie para es_input.cfg.bkp.
+Primeiro, copie o arquivo para outro lugar, ou crie uma cópia e renomeie para es_input.cfg.bkp.
 
-Então você pode editar ou deletar para que o R36S retorne para o padrão
+Então você pode deletar o arquivo es_input.cfg para que o R36S retorne para o padrão
 
 ---
 
