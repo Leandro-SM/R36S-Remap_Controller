@@ -24,7 +24,13 @@ Primeiro, copie o arquivo para outro lugar, ou crie uma cópia renomeie para es_
 
 Então você pode editar ou deletar para que o R36S retorne para o padrão
 
+---
+
+
 Teste no console.
+
+---
+
 
 Se não funcionar, abra o arquivo es_input.cfg e edite os inputs de acordo com o padrão:
 
